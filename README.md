@@ -2,7 +2,6 @@
 
 
 ## Workflow chart
-![1](https://user-images.githubusercontent.com/39629176/55099884-912f3100-50e6-11e9-96bb-d66f9538f4b7.jpg)
 
 ## STEPS TAKEN IN THE PROCESS:->
 #### CONNECTION TO HTML:
