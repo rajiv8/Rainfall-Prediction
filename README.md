@@ -1,7 +1,7 @@
 # Rainfall-Prediction-Website
 
-
 ## Workflow chart
+![1](https://github.com/rajiv8/Rainfall-Prediction/blob/master/static/workFlow.png)
 
 ## STEPS TAKEN IN THE PROCESS:->
 #### CONNECTION TO HTML:
